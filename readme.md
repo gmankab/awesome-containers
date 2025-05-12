@@ -1,2 +1,2 @@
-here are some guides for toolbox and distrobox containers
+moved here - https://github.com/gmankab/guides/tree/main/containers
 
